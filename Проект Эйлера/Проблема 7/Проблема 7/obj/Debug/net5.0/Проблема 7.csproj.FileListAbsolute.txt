@@ -1,0 +1,16 @@
+C:\C#\Проект Эйлера\Проблема 7\Проблема 7\bin\Debug\net5.0\Проблема 7.exe
+C:\C#\Проект Эйлера\Проблема 7\Проблема 7\bin\Debug\net5.0\Проблема 7.deps.json
+C:\C#\Проект Эйлера\Проблема 7\Проблема 7\bin\Debug\net5.0\Проблема 7.runtimeconfig.json
+C:\C#\Проект Эйлера\Проблема 7\Проблема 7\bin\Debug\net5.0\Проблема 7.runtimeconfig.dev.json
+C:\C#\Проект Эйлера\Проблема 7\Проблема 7\bin\Debug\net5.0\Проблема 7.dll
+C:\C#\Проект Эйлера\Проблема 7\Проблема 7\bin\Debug\net5.0\ref\Проблема 7.dll
+C:\C#\Проект Эйлера\Проблема 7\Проблема 7\bin\Debug\net5.0\Проблема 7.pdb
+C:\C#\Проект Эйлера\Проблема 7\Проблема 7\obj\Debug\net5.0\Проблема 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Проект Эйлера\Проблема 7\Проблема 7\obj\Debug\net5.0\Проблема 7.AssemblyInfoInputs.cache
+C:\C#\Проект Эйлера\Проблема 7\Проблема 7\obj\Debug\net5.0\Проблема 7.AssemblyInfo.cs
+C:\C#\Проект Эйлера\Проблема 7\Проблема 7\obj\Debug\net5.0\Проблема 7.csproj.CoreCompileInputs.cache
+C:\C#\Проект Эйлера\Проблема 7\Проблема 7\obj\Debug\net5.0\Проблема 7.dll
+C:\C#\Проект Эйлера\Проблема 7\Проблема 7\obj\Debug\net5.0\ref\Проблема 7.dll
+C:\C#\Проект Эйлера\Проблема 7\Проблема 7\obj\Debug\net5.0\Проблема 7.pdb
+C:\C#\Проект Эйлера\Проблема 7\Проблема 7\obj\Debug\net5.0\Проблема 7.genruntimeconfig.cache
+C:\C#\Проект Эйлера\Проблема 7\Проблема 7\obj\Debug\net5.0\Проблема 7.csproj.AssemblyReference.cache
