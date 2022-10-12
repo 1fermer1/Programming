@@ -1,0 +1,16 @@
+C:\C#\Проект Эйлера\Проблема 5\Проблема 5\obj\Debug\net5.0\Проблема 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Проект Эйлера\Проблема 5\Проблема 5\obj\Debug\net5.0\Проблема 5.AssemblyInfoInputs.cache
+C:\C#\Проект Эйлера\Проблема 5\Проблема 5\obj\Debug\net5.0\Проблема 5.AssemblyInfo.cs
+C:\C#\Проект Эйлера\Проблема 5\Проблема 5\obj\Debug\net5.0\Проблема 5.csproj.CoreCompileInputs.cache
+C:\C#\Проект Эйлера\Проблема 5\Проблема 5\bin\Debug\net5.0\Проблема 5.exe
+C:\C#\Проект Эйлера\Проблема 5\Проблема 5\bin\Debug\net5.0\Проблема 5.deps.json
+C:\C#\Проект Эйлера\Проблема 5\Проблема 5\bin\Debug\net5.0\Проблема 5.runtimeconfig.json
+C:\C#\Проект Эйлера\Проблема 5\Проблема 5\bin\Debug\net5.0\Проблема 5.runtimeconfig.dev.json
+C:\C#\Проект Эйлера\Проблема 5\Проблема 5\bin\Debug\net5.0\Проблема 5.dll
+C:\C#\Проект Эйлера\Проблема 5\Проблема 5\bin\Debug\net5.0\ref\Проблема 5.dll
+C:\C#\Проект Эйлера\Проблема 5\Проблема 5\bin\Debug\net5.0\Проблема 5.pdb
+C:\C#\Проект Эйлера\Проблема 5\Проблема 5\obj\Debug\net5.0\Проблема 5.dll
+C:\C#\Проект Эйлера\Проблема 5\Проблема 5\obj\Debug\net5.0\ref\Проблема 5.dll
+C:\C#\Проект Эйлера\Проблема 5\Проблема 5\obj\Debug\net5.0\Проблема 5.pdb
+C:\C#\Проект Эйлера\Проблема 5\Проблема 5\obj\Debug\net5.0\Проблема 5.genruntimeconfig.cache
+C:\C#\Проект Эйлера\Проблема 5\Проблема 5\obj\Debug\net5.0\Проблема 5.csproj.AssemblyReference.cache
