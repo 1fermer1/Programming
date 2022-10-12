@@ -1,0 +1,20 @@
+C:\C#\Калькулятор\bin\Debug\Калькулятор.exe.config
+C:\C#\Калькулятор\bin\Debug\Калькулятор.exe
+C:\C#\Калькулятор\bin\Debug\Калькулятор.pdb
+C:\C#\Калькулятор\obj\Debug\Калькулятор.csproj.AssemblyReference.cache
+C:\C#\Калькулятор\obj\Debug\Калькулятор.Form1.resources
+C:\C#\Калькулятор\obj\Debug\Калькулятор.Properties.Resources.resources
+C:\C#\Калькулятор\obj\Debug\Калькулятор.csproj.GenerateResource.cache
+C:\C#\Калькулятор\obj\Debug\Калькулятор.csproj.CoreCompileInputs.cache
+C:\C#\Калькулятор\obj\Debug\Калькулятор.exe
+C:\C#\Калькулятор\obj\Debug\Калькулятор.pdb
+C:\C#\Калькуляторы\Калькулятор V1\bin\Debug\Калькулятор.exe.config
+C:\C#\Калькуляторы\Калькулятор V1\bin\Debug\Калькулятор.exe
+C:\C#\Калькуляторы\Калькулятор V1\bin\Debug\Калькулятор.pdb
+C:\C#\Калькуляторы\Калькулятор V1\obj\Debug\Калькулятор.csproj.AssemblyReference.cache
+C:\C#\Калькуляторы\Калькулятор V1\obj\Debug\Калькулятор.Form1.resources
+C:\C#\Калькуляторы\Калькулятор V1\obj\Debug\Калькулятор.Properties.Resources.resources
+C:\C#\Калькуляторы\Калькулятор V1\obj\Debug\Калькулятор.csproj.GenerateResource.cache
+C:\C#\Калькуляторы\Калькулятор V1\obj\Debug\Калькулятор.csproj.CoreCompileInputs.cache
+C:\C#\Калькуляторы\Калькулятор V1\obj\Debug\Калькулятор.exe
+C:\C#\Калькуляторы\Калькулятор V1\obj\Debug\Калькулятор.pdb
