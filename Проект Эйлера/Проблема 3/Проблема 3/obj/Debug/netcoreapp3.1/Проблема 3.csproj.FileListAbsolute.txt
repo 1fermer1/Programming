@@ -1,0 +1,14 @@
+C:\C#\Проект Эйлера\Проблема 3\Проблема 3\bin\Debug\netcoreapp3.1\Проблема 3.exe
+C:\C#\Проект Эйлера\Проблема 3\Проблема 3\bin\Debug\netcoreapp3.1\Проблема 3.deps.json
+C:\C#\Проект Эйлера\Проблема 3\Проблема 3\bin\Debug\netcoreapp3.1\Проблема 3.runtimeconfig.json
+C:\C#\Проект Эйлера\Проблема 3\Проблема 3\bin\Debug\netcoreapp3.1\Проблема 3.runtimeconfig.dev.json
+C:\C#\Проект Эйлера\Проблема 3\Проблема 3\bin\Debug\netcoreapp3.1\Проблема 3.dll
+C:\C#\Проект Эйлера\Проблема 3\Проблема 3\bin\Debug\netcoreapp3.1\Проблема 3.pdb
+C:\C#\Проект Эйлера\Проблема 3\Проблема 3\obj\Debug\netcoreapp3.1\Проблема 3.csproj.AssemblyReference.cache
+C:\C#\Проект Эйлера\Проблема 3\Проблема 3\obj\Debug\netcoreapp3.1\Проблема 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Проект Эйлера\Проблема 3\Проблема 3\obj\Debug\netcoreapp3.1\Проблема 3.AssemblyInfoInputs.cache
+C:\C#\Проект Эйлера\Проблема 3\Проблема 3\obj\Debug\netcoreapp3.1\Проблема 3.AssemblyInfo.cs
+C:\C#\Проект Эйлера\Проблема 3\Проблема 3\obj\Debug\netcoreapp3.1\Проблема 3.csproj.CoreCompileInputs.cache
+C:\C#\Проект Эйлера\Проблема 3\Проблема 3\obj\Debug\netcoreapp3.1\Проблема 3.dll
+C:\C#\Проект Эйлера\Проблема 3\Проблема 3\obj\Debug\netcoreapp3.1\Проблема 3.pdb
+C:\C#\Проект Эйлера\Проблема 3\Проблема 3\obj\Debug\netcoreapp3.1\Проблема 3.genruntimeconfig.cache
